@@ -15,7 +15,8 @@
 
 ## Open issues & tweaks:
 
-* // TODO: Create own NFTs
+* // TODO: Create own NFTs array
+* // TODO: Use only "integer" part of Price to avoid triggering upkeepers on every decimal price variation
 
 ----
 
